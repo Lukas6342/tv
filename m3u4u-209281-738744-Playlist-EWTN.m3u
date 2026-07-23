@@ -1,0 +1,7 @@
+#EXTM3U x-generator="https://m3u4u.com/"
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/sua70RO.png" tvg-id="EWTN.us@Europe",EWTN Europe (720p)
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/NXeygNk.png" tvg-id="EWTN.de@SD",EWTN Germany (720p)
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/LdsRz2E.png" tvg-id="EWTNBonumTV.hu@SD",EWTN/Bonum TV
+https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
